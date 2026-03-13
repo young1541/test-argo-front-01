@@ -1,0 +1,7 @@
+.test { color: aqua; }
+#test_id { 
+    font-size: 15px; 
+    margin-right: 15px;
+    color: chartreuse;
+    text-align: right;
+}
